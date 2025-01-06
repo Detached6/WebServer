@@ -1,8 +1,8 @@
 #include "config.h"
 
 int main(int argc, char *argv[]) {
-    string user = "debian-sys-maint";
-    string passwd = "40WK74NNPbKc0hzf";
+    string user = "root";
+    string passwd = "123";
     string databasename = "yourdb";
 
     Config config;
